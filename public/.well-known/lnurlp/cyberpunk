@@ -2,8 +2,8 @@
   "status": "OK",
   "tag": "payRequest",
   "commentAllowed": 255,
-  "callback": "https://getalby.com/lnurlp/uxjossie/callback",
-  "metadata": "[[\"text/identifier\",\"uxjossie@getalby.com\"],[\"text/plain\",\"Sats for uxjossie\"]]",
+  "callback": "https://getalby.com/lnurlp/cyberpunk/callback",
+  "metadata": "[[\"text/identifier\",\"cyberpunk@getalby.com\"],[\"text/plain\",\"Sats for cyberpunk\"]]",
   "minSendable": 1000,
   "maxSendable": 11000000000,
   "payerData": {
